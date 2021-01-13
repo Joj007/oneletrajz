@@ -1,0 +1,27 @@
+body
+{
+    color:white
+}
+
+
+.main
+{
+ width: 50%;
+ height: 100%;
+ background-color: rgba(0, 0, 139, 0.7);
+    font-size: 1cm;
+padding: 0.5cm;
+margin-left: 25%;
+margin-right: 25%;
+}
+
+
+.info
+{
+font-style: italic;
+}
+
+ul
+{
+    list-style-type: square;
+}
