@@ -1,0 +1,124 @@
+body
+{
+    color:white;
+    background-attachment: fixed;
+}
+
+
+.main
+{
+ width: 47.5%;
+ height: 100%;
+ background-color: rgba(0, 0, 139, 0.7);
+    font-size: 1cm;
+padding: 0.5cm;
+margin-left: -0.5%;
+margin-right: 50%;
+border-radius: 0.5cm;
+border-color: whitesmoke;
+border-width: 0.1cm;
+border-style: double;
+}
+
+
+.main2
+{
+ width: 47.5%;
+ height: 100%;
+ background-color: rgba(0, 0, 139, 0.7);
+    font-size: 1cm;
+padding: 0.5cm;
+margin-right: -30%;
+border-radius: 0.5cm;
+border-color: whitesmoke;
+border-width: 0.1cm;
+border-style: double;
+position: relative;
+right: -50%;
+}
+
+
+.info
+{
+font-style: italic;
+}
+
+ul
+{
+    list-style-type: square;
+}
+
+
+h2
+{
+font-size: 2cm;
+text-align: center;
+color: yellow;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div h2
+{
+font-size: 1.3cm;
+color: seashell;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+.logo
+{
+    height: 3cm;
+    padding-left: 3.5cm;
+    position: relative;
+    bottom: -0.5cm;
+}
+
+
+.end
+{
+    background-color: rgba(205, 205, 205, 0.85);
+    margin-top: 2cm;
+    height: 4cm;
+}
+
+
+a
+{
+    color: lightgray;
+}
+
+.kep1 img
+{
+    width: 5cm;
+    height: 5cm;
+    border-radius: 50%;
+    border-color:goldenrod;
+    border-width: 0.1cm;
+    border-style:solid;
+}
+.kep2 img
+{
+    width: 5cm;
+    height: 5cm;
+    border-radius: 50%;
+    border-color:goldenrod;
+    border-width: 0.1cm;
+    border-style:solid;
+}
+
+.kep1
+{
+    text-align:right;
+    position: relative;
+    bottom: -10cm;
+    padding-right: 15%;
+}
+.kep2
+{
+text-align: left;
+position: relative;
+    bottom: -8cm;
+    padding-left: 15%;
+}
+
+
